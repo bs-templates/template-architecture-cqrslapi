@@ -1,6 +1,6 @@
-﻿using BAYSOFT.Core.Application.Default.Samples.Queries.GetSampleByID;
+﻿using BAYSOFT.Abstractions.Controllers;
+using BAYSOFT.Core.Application.Default.Samples.Queries.GetSampleByID;
 using BAYSOFT.Core.Application.Default.Samples.Queries.GetSamplesByFilter;
-using BAYSOFT.Infrastructures.Crosscutting;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using System.Threading;

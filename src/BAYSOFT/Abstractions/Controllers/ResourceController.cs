@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace BAYSOFT.Infrastructures.Crosscutting
+namespace BAYSOFT.Abstractions.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
