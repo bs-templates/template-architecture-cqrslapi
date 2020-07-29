@@ -18,9 +18,5 @@
     <PackageReference Include="NetDevPack" Version="1.1.0" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Infrastructures\Exceptions\" />
-  </ItemGroup>
-
 
 </Project>
